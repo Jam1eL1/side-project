@@ -1,1 +1,8 @@
-.vscode/ 
+# IDE files
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Generated files
+dist/output.css
