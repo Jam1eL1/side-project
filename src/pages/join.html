@@ -63,6 +63,7 @@ src/pages/signup.html
                 } else {
                     const error = await response.text();
                     console.error("Signup failed:", error);
+                    console.log(userData);
                     // Add error message display here
                 }
             } catch (err) {
