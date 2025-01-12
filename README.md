@@ -2,7 +2,13 @@
 
 ## Getting Started
 
-### Prerequisites
+
+## Prerequisites
+Before getting started, ensure you have the following installed on your system:
+
+- [Homebrew](https://brew.sh/) (macOS or Linux)
+- [Node.js](https://nodejs.org/) (Installable via Homebrew)
+
 - Node.js (version v21.7.1)
 - npm (version 10.5.0)
 
@@ -22,20 +28,6 @@
     ```
 
 ## Project Structure
-root/
-├── dist/ # Compiled files
-│ └── output.css # Compiled Tailwind CSS
-├── public/ # Static assets
-│ └── assets/
-│ ├── icons/ # Icon files
-│ └── images/ # Image files
-├── src/ # Source files
-│ ├── css/
-│ │ └── style.css # Main CSS file with Tailwind directives
-│ ├── js/
-│ │ └── main.js # Main JavaScript file
-│ └── pages/
-│ └── login.html # HTML pages
 
 
 ## Development
